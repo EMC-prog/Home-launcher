@@ -2,4 +2,11 @@
     color: black;
     background-color: #7eddf7 }
 a {
-  font-size: x-large }
+  font-size: x-large;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0 }
