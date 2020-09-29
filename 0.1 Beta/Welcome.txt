@@ -1,4 +1,0 @@
-Hello and welcome to the 0.1 Beta version of a Home launcher project (WIP)
-This is a testing app and not a demo.
-To add a photo in the Photos app, make a gif with all the images, put it on the "Show" folder and name it 1.gif.
-Enjoy!
